@@ -42,7 +42,7 @@
     <version.spring>4.3.11.RELEASE</version.spring>
     <version.junit>4.12</version.junit>
     <version.log4j2>2.9.0</version.log4j2>
-    <version.mysql>5.1.44</version.mysql>
+    <version.mysql>8.0.16</version.mysql>
 
     <!-- https://maven.apache.org/plugins/index.html -->
     <maven-compiler-plugin-version>3.7.0</maven-compiler-plugin-version>
