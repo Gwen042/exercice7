@@ -39,7 +39,7 @@
     <jdk.source>1.7</jdk.source>
     <jdk.target>1.7</jdk.target>
 
-    <version.spring>4.3.11.RELEASE</version.spring>
+    <version.spring>4.3.29.RELEASE</version.spring>
     <version.junit>4.12</version.junit>
     <version.log4j2>2.9.0</version.log4j2>
     <version.mysql>5.1.44</version.mysql>
